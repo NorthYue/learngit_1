@@ -13,4 +13,4 @@ Git tracks changes of files.
 
 ## branch
 
-try to use branch.
+Creating a new branch is quick & simple. 
